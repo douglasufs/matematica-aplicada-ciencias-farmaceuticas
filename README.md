@@ -7,7 +7,7 @@ Este repositório hospeda a versão digital, aberta e colaborativa do livro did�
 
 ## 🚀 Como Baixar o Livro
 Para obter a versão mais recente do livro em formato PDF com alta resolução:
-👉 **[CLIQUE AQUI PARA BAIXAR O LIVRO (PDF)](insira_o_link_aqui_depois)**
+👉 **[CLIQUE AQUI PARA BAIXAR O LIVRO (PDF)](https://github.com/douglasufs/matematica-aplicada-ciencias-farmaceuticas/raw/main/matematica-farmacia-book.pdf)**
 
 ---
 
@@ -23,9 +23,9 @@ O material foi construído focado nas demandas reais de estudantes e profissiona
 
 Este livro é um recurso educacional aberto (REA). Se este material poupou seu tempo, enriqueceu suas aulas ou auxiliou nos seus estudos, você pode apoiar sua manutenção de duas formas:
 
-1. **Sugerindo Melhorias:** Encontrou algum erro de digitação, inconsistência de parâmetros nos gráficos ou equações? Abra uma **[Issue](https://github.com/SEU-USUARIO/matematica-aplicada-ciencias-farmaceuticas/issues)** aqui no GitHub ou envie um e-mail para `douglas@mat.ufs.br`.
+1. **Sugerindo Melhorias:** Encontrou algum erro de digitação, inconsistência de parâmetros nos gráficos ou equações? Abra uma **[Issue](https://github.com/douglasufs/matematica-aplicada-ciencias-farmaceuticas/issues)** aqui no GitHub ou envie um e-mail para `douglas@mat.ufs.br`.
 2. **Pague um Café:** Se desejar e puder, faça uma contribuição voluntária de qualquer valor via PIX.
-   * **Chave PIX:** `douglas@mat.ufs.br` (ou insira sua chave preferida)
+   * **Chave PIX:** `douglas.edu.ufs@gmail.com`
 
 ---
 
