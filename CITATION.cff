@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se você utilizar este livro em suas aulas, pesquisas ou estudos, por favor, cite-o conforme abaixo."
+authors:
+  - family-names: "de Albuquerque"
+    given-names: "Douglas F."
+    orcid: "https://orcid.org/0000-0002-4517-7198" # Substitua pelo seu ORCID se tiver, ou remova esta linha
+title: "Matemática Aplicada às Ciências Farmacêuticas: Uma Abordagem Contextualizada com Ênfase em Farmácia"
+version: "1.0.0"
+date-released: "2026-06-07"
+publisher:
+  name: "Edição do Autor"
+address: "Sinop, MT"
+identifiers:
+  - type: isbn
+    value: "978-65-02-15051-1"
+license: "CC-BY-SA-4.0"
+repository-code: "https://github.com/douglasufs/matematica-aplicada-ciencias-farmaceuticas"
