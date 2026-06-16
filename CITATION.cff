@@ -5,7 +5,7 @@ authors:
     given-names: "Douglas F."
     orcid: "https://orcid.org/0000-0002-4517-7198" # Substitua pelo seu ORCID se tiver, ou remova esta linha
 title: "Matemática Aplicada às Ciências Farmacêuticas: Uma Abordagem Contextualizada com Ênfase em Farmácia"
-version: "1.0.0"
+version: "1.2.0"
 date-released: "2026-06-07"
 publisher:
   name: "Edição do Autor"
