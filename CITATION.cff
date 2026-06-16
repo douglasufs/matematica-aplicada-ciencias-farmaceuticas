@@ -12,7 +12,7 @@ publisher:
 address: "Sinop, MT"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.20585586"
+    value: "10.5281/zenodo.20722291"
   - type: isbn
     value: "978-65-02-15051-1"
 license: "CC-BY-SA-4.0"
