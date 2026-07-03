@@ -12,7 +12,7 @@ Para obter a versão mais recente do livro em formato PDF com alta resolução:
 ---
 
 ## 🎯 Sobre o Projeto e Metodologia
-O material foi construído focado nas demandas reais de estudantes e profissionais de Farmácia, integrando ferramentas algébricas fundamentais (Funções, Limites, Derivadas e Integrais) com fenômenos práticos, tais como:
+O material foi construído focado nas demandas reais de estudantes e profissionais de Farmácia, integrando ferramentas algébricas fundamentais (Funções, Limites e Derivadas) com fenômenos práticos, tais como:
 * Cinética de eliminação e meia-vida de fármacos;
 * Modelagem matemática de sistemas de liberação de medicamentos;
 * Cálculos de diluição, bioequivalência e farmacocinética computacional.
